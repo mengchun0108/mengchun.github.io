@@ -1,0 +1,8 @@
+1. https://getbootstrap.com   進入doc
+2. RWD制式化網頁（可以符合各種型號大小）
+3. 如果css有做變化  那就要下div class
+4. id有唯一性不可重複  class可以重複
+5. 找標題背景可以找banner
+6. 去googlefont找字型
+    把字型程式碼複製後貼到head裏面
+7. colorhunt是顏色
